@@ -1,0 +1,13 @@
+D:\GIT\Files\CSV\bin\Debug\CSV.exe.config
+D:\GIT\Files\CSV\bin\Debug\CSV.exe
+D:\GIT\Files\CSV\bin\Debug\CSV.pdb
+D:\GIT\Files\CSV\bin\Debug\CsvHelper.dll
+D:\GIT\Files\CSV\bin\Debug\System.ValueTuple.dll
+D:\GIT\Files\CSV\bin\Debug\CsvHelper.xml
+D:\GIT\Files\CSV\bin\Debug\System.ValueTuple.xml
+D:\GIT\Files\CSV\obj\Debug\CSV.csprojAssemblyReference.cache
+D:\GIT\Files\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+D:\GIT\Files\CSV\obj\Debug\CSV.csproj.CopyComplete
+D:\GIT\Files\CSV\obj\Debug\CSV.exe
+D:\GIT\Files\CSV\obj\Debug\CSV.pdb
+D:\GIT\Files\CSV\bin\Debug\file.csv
